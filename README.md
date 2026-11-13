@@ -1,125 +1,61 @@
-<div align="center">
+<a href="https://saadlabri.com"><img src="assets/hero.svg?v=3" width="100%" alt="Saad Labri. AI automation engineer and web developer. Systems that survive real data. 40+ projects delivered, 100+ workflows in production, 15 sites and apps live today."></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="SAAD — design · code · automation" src="assets/banner-dark.svg" width="100%">
-</picture>
+<p align="center">
+  <a href="https://saadlabri.com"><b>saadlabri.com</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:contact@saadlabri.com">contact@saadlabri.com</a>
+  &nbsp;·&nbsp;
+  Oran, Algeria · Remote
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tagline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/tagline-light.svg">
-  <img alt="rotating taglines" src="assets/tagline-dark.svg" width="640">
-</picture>
+<img src="assets/about.svg?v=3" width="100%" alt="01, about me. I am Saad, an engineer from Oran, Algeria. I trained in industrial maintenance, where you assume the machine will fail and plan for it. Today I build AI agents, automation pipelines and full web apps the same way. I design what I build, and I work in English, French and Arabic.">
 
-<br/>
+<img src="assets/does.svg?v=4" width="100%" alt="02, what I do. AI agents, automation, web apps, e-commerce, real-world systems and teaching.">
 
-<a href="https://instagram.com/saad_lab.0"><img src="https://img.shields.io/badge/@saad__lab.0-B3312A?style=flat-square&logo=instagram&logoColor=E8DCC0" alt="instagram"></a>
-&nbsp;<a href="mailto:saadlabri123@gmail.com"><img src="https://img.shields.io/badge/freelance_inquiries-C9973B?style=flat-square&logo=gmail&logoColor=171310" alt="email"></a>
-&nbsp;<img src="https://img.shields.io/badge/Algeria_🇩🇿-171310?style=flat-square" alt="location">
-&nbsp;<img src="https://komarev.com/ghpvc/?username=SaadLab06&color=B3312A&style=flat-square&label=visitors" alt="visitors">
+<img src="assets/rightnow.svg?v=4" width="100%" alt="03, right now. Building an internal operations platform for a US company. Running a home server with self-hosted n8n and Coolify. Tinkering with local AI models, 3D scenes in Blender and motion graphics in code.">
 
-</div>
+<img src="assets/shipped.svg?v=3" width="100%" alt="04, things I built. A quote-to-TCO procurement engine, a two-agent DM desk, packing line control, WooCommerce ops, an outreach engine with an approval gate, and DZ-POS, a point of sale with offline license checks.">
 
-<br/>
+<img src="assets/toolkit.svg?v=3" width="100%" alt="05, toolkit. Claude API, Claude Code, MCP, RAG, n8n, Playwright, React, Next.js, TypeScript, Tailwind, Python, FastAPI, Node.js, PHP, PostgreSQL, Supabase, Cloudflare Workers, Docker, Coolify, GitHub Actions, Shopify, WooCommerce, WordPress, Odoo, Figma, Blender.">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
-  <img alt="" src="assets/divider-dark.svg" width="100%">
-</picture>
+<img src="assets/method.svg?v=3" width="100%" alt="06, how I build. The example, the map, the build, the guardrails, the handover.">
 
-## 侍 &nbsp;whoami
+<a href="https://saadlabri.com"><img src="assets/contact.svg?v=3" width="100%" alt="07, contact. Ship it. Keep it running. saadlabri.com, contact@saadlabri.com. English, French, Arabic. Oran, Algeria, remote."></a>
 
-```ts
-const saad = {
-  role: ["Product Designer", "Full-Stack Dev", "AI Automation Engineer"],
-  studying: "Industrial Engineering — shipping 40+ projects on the side",
-  building: [
-    "FreelanceHub — Maghreb ⇄ France freelance marketplace",
-    "RS — conversation-management SaaS",
-  ],
-  automation: "100+ n8n workflows · multi-agent pipelines",
-  designPhilosophy: "if it needs a manual, redesign it",
-  motto: "fall seven times, rise eight",
-};
-```
+<details>
+<summary>Read this page as plain text</summary>
 
-## 刀 &nbsp;the arsenal
+<br>
 
-**Design** &nbsp;
-![Figma](https://img.shields.io/badge/Figma-171310?style=flat-square&logo=figma&logoColor=F24E1E)
-![Framer](https://img.shields.io/badge/Framer-171310?style=flat-square&logo=framer&logoColor=E8DCC0)
-![Adobe](https://img.shields.io/badge/Adobe-171310?style=flat-square&logo=adobe&logoColor=FF0000)
+**I am Saad Labri, an engineer from Oran, Algeria.** I trained in industrial maintenance, where you assume the machine will fail and plan for it. Today I build AI agents, automation pipelines and full web apps the same way. I design what I build, and I work in English, French and Arabic.
 
-**Frontend** &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-171310?style=flat-square&logo=typescript&logoColor=3178C6)
-![Next.js](https://img.shields.io/badge/Next.js-171310?style=flat-square&logo=nextdotjs&logoColor=E8DCC0)
-![React](https://img.shields.io/badge/React-171310?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-171310?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+**How I got here.**
 
-**Backend** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-171310?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-171310?style=flat-square&logo=python&logoColor=FFD43B)
-![FastAPI](https://img.shields.io/badge/FastAPI-171310?style=flat-square&logo=fastapi&logoColor=009688)
-![Postgres](https://img.shields.io/badge/Postgres-171310?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-171310?style=flat-square&logo=supabase&logoColor=3FCF8E)
-![Docker](https://img.shields.io/badge/Docker-171310?style=flat-square&logo=docker&logoColor=2496ED)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-171310?style=flat-square&logo=cloudflare&logoColor=F38020)
+- An engineering degree in industrial maintenance and safety. Final project: predictive maintenance on vibration data.
+- 2024: freelance for French and Maghreb businesses. Agents that write to live order systems, each behind a validator and a confirmation step.
+- 2025: a procurement engine for a public transport operator.
+- 2025 to 2026: the AI layer for four businesses under one owner.
+- Now: agents, pipelines and internal platforms, built solo, for teams in Europe, North Africa and the US.
 
-**AI & Automation** &nbsp;
-![Claude](https://img.shields.io/badge/Claude-171310?style=flat-square&logo=anthropic&logoColor=D97757)
-![OpenAI](https://img.shields.io/badge/OpenAI-171310?style=flat-square&logo=openai&logoColor=E8DCC0)
-![n8n](https://img.shields.io/badge/n8n-171310?style=flat-square&logo=n8n&logoColor=EA4B71)
-![Playwright](https://img.shields.io/badge/Playwright-171310?style=flat-square&logo=playwright&logoColor=2EAD33)
+**What I do.** AI agents with real write access and a human approval in front of them. Automation: 100+ workflows in production, mostly on self-hosted n8n. Full web apps, from the interface to the deploy. E-commerce on Shopify, WooCommerce and WordPress. Software wired to scanners, cameras and label printers. I also wrote and teach a 13-module course on AI automation.
 
-**Commerce** &nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-171310?style=flat-square&logo=wordpress&logoColor=E8DCC0)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-171310?style=flat-square&logo=woocommerce&logoColor=96588A)
-![Shopify](https://img.shields.io/badge/Shopify-171310?style=flat-square&logo=shopify&logoColor=7AB55C)
+**Right now.** Building an internal operations platform for a US company. Running a home server with self-hosted n8n and Coolify. Tinkering with local AI models, 3D scenes in Blender and motion graphics in code.
 
-## 戦 &nbsp;battle record
+**Things I built.**
 
-<div align="center">
+| System | What it does |
+|---|---|
+| Quote-to-TCO Engine | Supplier quotes in, a ranked cost comparison out. One model reads, a second checks. |
+| Two-Agent DM Desk | Brain decides what is true. Voice writes the reply and never invents a claim. |
+| Packing Line Control | Scanner, pedal, cameras and printers as one flow. No parcel is validated without photo proof. |
+| WooCommerce Ops | A daily order sheet, SMS cart recovery, and a bot where Claude Vision checks every packed box. |
+| Outreach Engine | Finds small businesses and drafts value-first emails. Sends nothing until I approve it. |
+| DZ-POS | A point of sale in French and Arabic, with a license server that verifies offline. |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SaadLab06&hide_border=true&background=00000000&stroke=00000000&ring=B3312A&fire=C9973B&currStreakNum=E8DCC0&sideNums=A79E8C&currStreakLabel=C9973B&sideLabels=8A8578&dates=6B6459">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SaadLab06&hide_border=true&background=00000000&stroke=00000000&ring=B3312A&fire=B3312A&currStreakNum=1E1913&sideNums=57503F&currStreakLabel=8A2019&sideLabels=6B5F4A&dates=8A8578">
-  <img alt="contribution streak" height="185" src="https://streak-stats.demolab.com?user=SaadLab06&hide_border=true&background=00000000&stroke=00000000&ring=B3312A&fire=C9973B&currStreakNum=E8DCC0&sideNums=A79E8C&currStreakLabel=C9973B&sideLabels=8A8578&dates=6B6459">
-</picture>
+**Toolkit.** Claude API, Claude Code, MCP, RAG, n8n, Playwright, React, Next.js, TypeScript, Tailwind, Python, FastAPI, Node.js, PHP, PostgreSQL, Supabase, Cloudflare Workers, Docker, Coolify, GitHub Actions, Shopify, WooCommerce, WordPress, Odoo, Figma, Blender.
 
-</div>
+**How I build.** Start from the worst real document. Score each task on volume, rule stability and the cost of being wrong. Let models read messy reality and let plain code do dedup, validation and writes. Put every write behind a validator and an approval. Hand over a one-page runbook.
 
-## 蛇 &nbsp;the serpent devours the year
+</details>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaadLab06/SaadLab06/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaadLab06/SaadLab06/output/snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/SaadLab06/SaadLab06/output/snake-dark.svg" width="100%">
-</picture>
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
-  <img alt="" src="assets/divider-dark.svg" width="100%">
-</picture>
-
-<div align="center">
-
-<br/>
-
-*「迷えば、敗れる」*
-
-<sub>hesitation is defeat</sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
-  <img alt="" src="assets/footer-dark.svg" width="100%">
-</picture>
-
-</div>
+<sub>Most of my repositories are private client work. Public code: <a href="https://github.com/SaadLab06/lendloop">lendloop</a> (Next.js, Convex and n8n with signed webhooks and idempotent write-backs) and <a href="https://github.com/SaadLab06/thirduni-post-rescue">thirduni-post-rescue</a> (a browser extension). The panels above are hand-built SVG with CSS keyframes, generated by <a href="tools/build.py">tools/build.py</a> in the same palette and type as my site.</sub>
